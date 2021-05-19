@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: retkilk0m.github.io
+Token: 8d81188c8284b7f86bc51a5332965c6a717e315a817569ddbb383a3a6123c1bf
